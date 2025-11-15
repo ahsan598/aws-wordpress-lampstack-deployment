@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a dynamic WordPress website on AWS using a production-grade LAMP stack reference architecture. WordPress is a PHP-based Content Management System (CMS) that stores its data in a MySQL database, making it an ideal fit for LAMP environments.
 
-**What is LAMP Stack?**
+#### What is LAMP Stack?
 The LAMP Stack is a traditional and widely-used web application architecture consisting of **Linux** (operating system), **Apache** (web server), **MySQL** (database), and **PHP** (server-side language).
 It provides a stable, secure, and scalable platform for hosting dynamic websites — including WordPress, which is built entirely using PHP and MySQL.
 
